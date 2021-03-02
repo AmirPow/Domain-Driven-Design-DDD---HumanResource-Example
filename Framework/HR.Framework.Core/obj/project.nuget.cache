@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFrjFvRncFZpooiWC2sluUDLRMmb6KRChJk6wKxBEaR4x1wus4ChJIY3+fh/EtNP8gxKX356PAxhC42AFaPEgg==",
+  "success": true,
+  "projectFilePath": "D:\\Ahmadi\\HR_990919\\HR\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\990224\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hw0vpsvGsO1T2vxi0pXUuPG7b0RGg0LPM8HOh0t6MigJDS9Bjb2tXdEKIotbLUpWMEc90QV+T2GRIlFlVGqhSw==",
+  "success": true,
+  "projectFilePath": "D:\\Ahmadi\\HR_990919\\HR\\WriteModel\\ShiftContext\\ApplicationService\\HR.ShiftContext.ApplicationService\\HR.ShiftContext.ApplicationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\990224\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

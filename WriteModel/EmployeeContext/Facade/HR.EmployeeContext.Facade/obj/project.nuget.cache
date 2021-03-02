@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlAJVGm2/tsw2ckn0gOyj5C/Mu8uJBlUTsuD5dRatjkYGYqdX34LHka98yY2rVoybSc0RNYqFtYlQHXAJuHKrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Ahmadi\\HR_990919\\HR\\WriteModel\\EmployeeContext\\Facade\\HR.EmployeeContext.Facade\\HR.EmployeeContext.Facade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\990224\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
